@@ -1,5 +1,3 @@
-# auth-flow
-
 # Quick Start - Auth-flow
 ### Installation
 - `npm install`
